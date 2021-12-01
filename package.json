@@ -1,0 +1,16 @@
+{
+  "name": "proxytester",
+  "version": "1.0.0",
+  "description": "Valete's proxy tester",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Valete_",
+  "license": "GNU",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValeteDJ91/Valete-s-proxy-tester"
+  }
+}
