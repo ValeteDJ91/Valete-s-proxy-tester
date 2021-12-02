@@ -9,13 +9,17 @@ https://nodejs.org/
 ## How does it works ?
 
 Just put all your proxy in input.txt
->>00.00.00.00:000:username:password
->>11.11.11.11:111:username:password
->>22.22.22.22:222:username:password
->>22.22.22.22:222:username:password
+```
+00.00.00.00:000:username:password
+11.11.11.11:111:username:password
+22.22.22.22:222:username:password
+22.22.22.22:222:username:password
+```
 
 Then start programm with `node index.js`
 
 All valid proxy will be present in active_proxy.txt
->>00.00.00.00:000:username:password
->>22.22.22.22:222:username:password
+```
+00.00.00.00:000:username:password
+22.22.22.22:222:username:password
+```
